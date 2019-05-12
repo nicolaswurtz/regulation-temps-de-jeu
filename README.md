@@ -1,11 +1,13 @@
-# Régulation du temps de jeu sur écran pour des enfants de 9 à 12 ans
+# Proposition de régulation du temps de jeu sur écran pour des enfants de 9 à 12 ans
 
-## Description succinte
-Proposition de plan hebdomadaire de la régulation du temps de jeu sur écran avec **4h** par semaine, et 4h supplémentaires par mois.
+## Description succinte, fonctionnement
+Proposition de plan hebdomadaire de la régulation du temps de jeu sur écran avec **4h** par semaine, et 4h supplémentaires par mois (pour le plus grand des enfants).
 
-![Régulation du temps de jeu format PNG](/joursdordi.png)
+Le temps des 4h est réparti dans différentes plages en vert dans la semaine, avec une durée maximum à côté du texte du jour (par ex: maximum 1h30 le mercredi).
 
-## Quelques recommandations d'usage
+![Régulation du temps de jeu format PDF](/joursdordi.pdf)
+
+## Quelques recommandations d'usage totalement personnelles
 _Les recommandations qui suivent ne sont pas exhaustives et relèvent avant tout de mon humble expérience de parent avec toutes les limites que cet exercice m'impose, et je ne suis pas le meilleur modèle...!_
 
 - **Intéressez-vous** au contenu de ce temps de jeu : vous devriez avoir joué/testé au moins une fois chaque jeu auquel votre enfant joue
